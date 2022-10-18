@@ -12,11 +12,10 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<div> 
+
 ![giphy](https://user-images.githubusercontent.com/76604719/195724118-798c5211-99db-4765-8486-fc77fec30f4c.gif)
 
- 
- <div/>
+  
 
 
 ![app-tech 1](https://user-images.githubusercontent.com/76604719/195723702-94dbda3a-d391-426b-b880-702838c58d29.gif)
