@@ -4,7 +4,8 @@
 
  
 - 🔭 I’m currently working on Peru.
-- 🌱 I’m currently learning ...###Flutter,js,React,tailwind,
+- 🌱 I’m currently learning :
+### Flutter,js,React,tailwind,
 - 👯 I’m looking to collaborate on ...###little PROJECTS
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
