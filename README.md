@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **jefrydep/jefrydep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ![giphy](https://user-images.githubusercontent.com/76604719/195724118-798c5211-99db-4765-8486-fc77fec30f4c.gif)
 
 
