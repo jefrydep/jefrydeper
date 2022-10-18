@@ -13,7 +13,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <div> 
- ![giphy](https://user-images.githubusercontent.com/76604719/195724118-798c5211-99db-4765-8486-fc77fec30f4c.gif)
+![giphy](https://user-images.githubusercontent.com/76604719/195724118-798c5211-99db-4765-8486-fc77fec30f4c.gif)
 
  
  <div/>
